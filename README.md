@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | Web Developer | Blockchain Developer
 
-I'm a Computer Engineering student passionate about building modern web applications and exploring the world of blockchain technology.
+I'm a Computer Engineering student passionate about building modern web applications and exploring the world of Web3 and Cryptography.
 
 I enjoy developing interactive user experiences, creating smart contracts, and understanding the technologies behind decentralized applications. I'm always eager to learn, build projects, and contribute to open-source communities.
 
@@ -50,7 +50,6 @@ I enjoy developing interactive user experiences, creating smart contracts, and u
 ### 🎯 Goals
 
 - Contribute to impactful open-source projects.
-- Get selected for Google Summer of Code 2027.
 - Build innovative projects in Web Development and Blockchain.
 - Collaborate with developers and grow through open-source contributions.
 
